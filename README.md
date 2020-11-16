@@ -7,6 +7,7 @@
 - 🤔 I’m currently learning comuter science on Brno University of Technology
 - 💬 Ask me about coding, networking, anything ya want 🤘
 - 📫 How to reach me: I'll add contact later
+- 💻 My favourite text/code editor is VIM. I like it Vanilla ( ͡° ͜ʖ ͡°)
 
 ### Languages and Tools:
 
