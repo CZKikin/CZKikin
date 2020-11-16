@@ -46,7 +46,7 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
   - Python 3
   - C
   - C++ - in progress
-
+</details>
 ### GitHub Stats:
 <details>
   <summary>Stats</summary>
