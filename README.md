@@ -40,6 +40,13 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 - PCAP - Programming Essentials in Python
 - NDG Linux Essentials
 
+<details>
+  <summary>SoloLearn LOL</summary>
+  
+  - Python 3
+  - C
+  - C++ - in progress
+
 ### GitHub Stats:
 <details>
   <summary>Stats</summary>
