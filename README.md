@@ -26,9 +26,8 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 
 ### Curses:
 
-
 <details>
-  <summary>**Networking**</summary>
+  <summary>Networking</summary>
 
   - CCNA R&S: Introduction to Networks  
   - CCNA R&S: Routing and Switching Essentials  
