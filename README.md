@@ -34,4 +34,4 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 - NDG Linux Essentials
 
 ### GitHub Stats:
-[![CZKikin's github stats](https://github-readme-stats.vercel.app/api?username=CZKikin&show_icons=true&hide_border=true)](https://github.com/CZKikin/github-readme-stats)
+[![CZKikin's github stats](https://github-readme-stats.vercel.app/api?username=CZKikin&show_icons=true&hide_border=true#theme=highcontrast)](https://github.com/CZKikin/github-readme-stats)
