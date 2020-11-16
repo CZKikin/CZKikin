@@ -25,9 +25,12 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 <br>
 
 ### Curses:
-- CCNA R&S: Introduction to Networks
-- CCNA R&S: Routing and Switching Essentials
-- CCNA R&S: Scaling networks
+  <details>
+    <summary>:zap: Networking<\summary>
+    - CCNA R&S: Introduction to Networks
+    - CCNA R&S: Routing and Switching Essentials
+    - CCNA R&S: Scaling networks  
+  <\details>
 - IT Essentials: PC Hardware and Software
 - Cybersecurity Essetials
 - PCAP - Programming Essentials in Python
