@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Sup lads 👋
+My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 <!--
 **CZKikin/CZKikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
