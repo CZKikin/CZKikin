@@ -25,19 +25,14 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 <br>
 
 ### Curses:
-<details>
-  <summary>Networking<\summary>  
 
-    - CCNA R&S: Introduction to Networks  
-    - CCNA R&S: Routing and Switching Essentials  
-    - CCNA R&S: Scaling networks  
-
-<\details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>Networking</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  - CCNA R&S: Introduction to Networks  
+  - CCNA R&S: Routing and Switching Essentials  
+  - CCNA R&S: Scaling networks  
 
 </details>
 
