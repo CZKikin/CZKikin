@@ -24,13 +24,13 @@
 <br>
 
 ### Curses:
-CCNA R&S: Introduction to Networks
-CCNA R&S: Routing and Switching Essentials
-CCNA R&S: Scaling networks
-IT Essentials: PC Hardware and Software
-Cybersecurity Essetials
-PCAP - Programming Essentials in Python
-NDG Linux Essentials
+- CCNA R&S: Introduction to Networks
+- CCNA R&S: Routing and Switching Essentials
+- CCNA R&S: Scaling networks
+- IT Essentials: PC Hardware and Software
+- Cybersecurity Essetials
+- PCAP - Programming Essentials in Python
+- NDG Linux Essentials
 
 ### GitHub Stats:
 [![CZKikin's github stats](https://github-readme-stats.vercel.app/api?username=CZKikin)](https://github.com/CZKikin/github-readme-stats)
