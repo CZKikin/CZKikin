@@ -4,7 +4,8 @@
 **CZKikin/CZKikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 - 🔭 I’m currently working on small school projects
-- 🤔 I’m currently learning comuter science on Brno University of Technology
+- 🤔 I’m currently studying computer science on Brno University of Technology
+- 👨‍💻 I also have a part time job as an embedded middleware developer @ NXP Semiconductors 
 - 💬 Ask me about coding, networking, anything ya want 🤘
 - 📫 How to reach me: I'll add contact later
 - 💻 My favourite text/code editor is VIM. I like it Vanilla ( ͡° ͜ʖ ͡°)
