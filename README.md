@@ -8,9 +8,8 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 - 👨‍💻 I also have a part time job as an embedded middleware developer @ NXP Semiconductors 
 - 💬 Ask me about coding, networking, anything ya want 🤘
 - 📫 How to reach me: I'll add contact later
-- 💻 My favourite text/code editor is VIM. I like it Vanilla ( ͡° ͜ʖ ͡°)
+- 💻 My favourite text/code editor is VIM/NeoVIM. I like it Vanilla ( ͡° ͜ʖ ͡°)
 - 🤐 I speak Czech/Slovak (almost same language.. if you did't know), english
-- 💭 Thinking about starting youtube programming tutorial channel in czech
 - 🕢 Iam coding for about 4 years now. 1.5 year professionally.
 
 ### Languages and Tools:
