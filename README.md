@@ -11,6 +11,7 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 - 💻 My favourite text/code editor is VIM/NeoVIM. I like it Vanilla ( ͡° ͜ʖ ͡°)
 - 🤐 I speak Czech/Slovak (almost same language.. if you did't know), english
 - 🕢 Iam coding for about 4 years now. 1.5 year professionally.
+- 🖥 I have won (with my team) 2018/2019 Merkur perFEKT challange. 
 
 ### Languages and Tools:
 
