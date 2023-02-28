@@ -10,7 +10,7 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 - 📫 How to reach me: krystofsadlik13@seznam.cz
 - 💻 My favourite text/code editor is VIM/NeoVIM. I like it Vanilla ( ͡° ͜ʖ ͡°)
 - 🤐 I speak Czech and English
-- 🕢 Iam coding for about 6 years now. 3 years professionally.
+- 🕢 Iam coding since 2016, professionally since 2019.
 - 🖥 I have won (with my team) 2018/2019 Merkur perFEKT challange and 3rd place at UTB STOČ 2019. 
 
 ### Languages and Tools:
