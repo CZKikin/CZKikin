@@ -4,7 +4,7 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 **CZKikin/CZKikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 - 🔭 I’m currently working on small school projects
-- 🤔 I’m currently studying security Technologies, systems and management at Faculty of apllied informatics in Zlín
+- 🤔 I’m currently studying security Technologies, systems and management at Faculty of applied informatics in Zlín
 - 👨‍💻 I also have a part time job as an embedded middleware developer @ NXP Semiconductors 
 - 💬 Ask me about coding, networking, anything ya want 🤘
 - 📫 How to reach me: krystofsadlik13@seznam.cz
