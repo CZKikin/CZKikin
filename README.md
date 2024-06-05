@@ -23,6 +23,12 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
+<br>
+
+### Badges:
+<a href="https://www.credly.com/badges/4ad10780-c666-494f-a26e-382419ed6adc/public_url"><img align="left" alt="Linux" width="64px" src="https://images.credly.com/size/340x340/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png"/></a>
+<br>
 <br>
 
 ### Curses:
