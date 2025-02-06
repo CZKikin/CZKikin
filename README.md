@@ -4,14 +4,12 @@ My opinion on GUI: "GUI is slow and confusing. Cli is simple and easy to use."
 **CZKikin/CZKikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 - 🔭 I’m currently working on small school projects
-- 🤔 I’m currently studying security Technologies, systems and management at Faculty of applied informatics in Zlín
-- 👨‍💻 I also have a part time job as an embedded middleware developer @ NXP Semiconductors 
+- 🤔 I study security Technologies, systems and management at Faculty of applied informatics in Zlín
 - 💬 Ask me about coding, networking, anything ya want 🤘
 - 📫 How to reach me: krystofsadlik13@seznam.cz
 - 💻 My favourite text/code editor is VIM/NeoVIM. I like it Vanilla ( ͡° ͜ʖ ͡°)
 - 🤐 I speak Czech and English
-- 🕢 Iam coding since 2016, professionally since 2019.
-- 🖥 I have won (with my team) 2018/2019 Merkur perFEKT challange and 3rd place at UTB STOČ 2019. 
+- 🕢 Iam coding since 2016, professionally since 2019 to 2025.
 
 ### Languages and Tools:
 
